@@ -6,5 +6,5 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ## **🛠 Tools and Technologies Used**
 
-1. **Dataset Used:** Kaggle’s Walmart Sales Dataset
+1. **Dataset Used:** Kaggle’s Walmart Sales Dataset(https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
 2. **Data Handling:** Python (using Pandas) ,SQL for quering 
