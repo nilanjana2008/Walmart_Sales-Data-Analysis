@@ -16,15 +16,17 @@ Goal: Conduct an initial data exploration to understand data distribution, check
 
 2. Data Cleaning
 Remove Duplicates: Identify and remove duplicate entries to avoid skewed results.
+
 Handle Missing Values: Drop rows or columns with missing values if they are insignificant; fill values where essential.
+
 Fix Data Types: Ensure all columns have consistent data types (e.g., dates as datetime, prices as float).
 
-3. Load Data into MySQL 
+4. Load Data into MySQL 
 Set Up Connections: Connect to MySQL using sqlalchemy and load the cleaned data into each database.
 Table Creation: Set up tables in both MySQL  using Python SQLAlchemy to automate table creation and data insertion.
 Verification: Run initial SQL queries to confirm that the data has been loaded accurately.
 
-4. SQL Analysis: Complex Queries and Business Problem Solving
+5. SQL Analysis: Complex Queries and Business Problem Solving
 Business Problem-Solving: Write and execute  SQL queries to answer critical business questions, such as:
 Revenue trends across branches and categories.
 Identifying best-selling product categories.
