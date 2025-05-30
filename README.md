@@ -7,4 +7,9 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## **🛠 Tools and Technologies Used**
 
 1. **Dataset Used:** Kaggle’s Walmart Sales Dataset(https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
-2. **Data Handling:** Python (using Pandas) ,SQL for quering 
+2. **Data Handling:** Python (using Pandas) ,MYSQL for quering .
+
+
+## **📋 Objectives of the Project**
+
+The objective of this project was to analyze Walmart sales data to uncover key business insights. The first steps involved cleaning and preprocessing the raw dataset using Pandas in Python to handle missing values, standardize data formats, and ensure data consistency.
