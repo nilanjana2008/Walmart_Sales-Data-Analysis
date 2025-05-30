@@ -14,7 +14,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 1. Explore the Data
 Goal: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
 
-2. Data Cleaning
+2. Data Cleaning 
 Remove Duplicates: Identify and remove duplicate entries to avoid skewed results.
 Handle Missing Values: Drop rows or columns with missing values if they are insignificant; fill values where essential.
 Fix Data Types: Ensure all columns have consistent data types (e.g., dates as datetime, prices as float).
