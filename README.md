@@ -21,9 +21,8 @@ This project is an end-to-end data analysis solution designed to extract critica
    - **Validation**: Check for any remaining inconsistencies and verify the cleaned data.
 
 ### 3. Load Data into MySQL and PostgreSQL
-   - **Set Up Connections**: Connect to MySQL using `sqlalchemy` and load the cleaned data into each database.
+   - **Set Up Connections**: Connect to MySQL using `sqlalchemy` and load the cleaned data into  database.
    - **Table Creation**: Set up tables in both MySQL  using Python SQLAlchemy to automate table creation and data insertion.
-   - **Verification**: Run initial SQL queries to confirm that the data has been loaded accurately.
 
 ### 4. SQL Analysis: Complex Queries and Business Problem Solving
    - **Business Problem-Solving**: Write and execute complex SQL queries to answer critical business questions, such as:
